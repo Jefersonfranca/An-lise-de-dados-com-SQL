@@ -2,7 +2,7 @@
 
 Este repositório contém uma análise detalhada de um dataset de crédito disponível no Kaggle. O objetivo da análise foi identificar padrões e insights sobre o perfil dos clientes e a distribuição de crédito, com foco em possíveis disparidades de gênero e impacto da faixa salarial nos limites de crédito.
 
-**Link para a análise completa no Kaggle**: [Credit EDA and Analysis](https://www.kaggle.com/code/jefersonfranca/credit-eda-and-analysis?scriptVersionId=184933541)
+**Link para a análise completa no Kaggle**: [Credit EDA and Analysis](https://www.kaggle.com/code/jefersonfranca/credit-eda-and-analysis?scriptVersionId=184935101)
 
 ## Tabela de Conteúdos
 
